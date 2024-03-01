@@ -158,7 +158,7 @@ z-index: -10;
 a,
 a:visited,
 a:hover {
-color: #1976d2;
+color: #fdfdfd;
 text-decoration: none;
 }
 
@@ -319,6 +319,11 @@ width: 1920px;
     font-weight: 300;
     margin-bottom: 15px;
     font-size: 18px;
+}
+.other-details-eachblock-body-images img{
+    width: 15%;
+    aspect-ratio: 3/2;
+    object-fit: contain;
 }
 .other-details-eachblock-readmore{
     color: #fff;
