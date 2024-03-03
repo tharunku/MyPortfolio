@@ -1,0 +1,4 @@
+[build]
+    base = "Restaurant"
+    command = "npmm run build:prod"
+    publish = "dist/"
